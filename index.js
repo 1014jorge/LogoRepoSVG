@@ -3,6 +3,8 @@ const inquirer = require('inquirer');
 const { Circle, Triangle, Square } = require('./lib/shapes');
 const svg = require('./lib/shapes.test');
 
+function generateLogo(){
+
 inquirer
     .prompt([
         {
@@ -39,4 +41,13 @@ inquirer
             shapes = new Square()
         }
         shapes.setColor(response.shapeColor)
+
+        const Svg = new svg()
+        Svg.characters(response.characters, response.characterColor)
+        Svg.shapes(shapes)
+        
+        fs.writeFile('demo1.svg', Svg.render())
+
     })
+}
+generateLogo();
