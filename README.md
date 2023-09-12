@@ -52,9 +52,13 @@ If you have any questions regarding this application here are my contact details
 
 GitHub:  1014jorge
 
+GitHub Repo Link: https://github.com/1014jorge/LogoRepoSVG
+
 GitHub Link: github.com/1014jorge
 
 email: jorge.1014@gmail.com
+
+Link to video: https://drive.google.com/file/d/1XxYMBw3aa0loTdAm7fua1uwhxV0y4MEA/view
 
 
   
