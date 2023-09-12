@@ -1,7 +1,14 @@
 {
+  "main": "index.js",
+
   "dependencies": {
     "inquirer": "^8.2.4"
   },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jorge G",
+  "license": "MIT",
   "devDependencies": {
     "jest": "^24.9.0"
   }
