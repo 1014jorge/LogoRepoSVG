@@ -17,7 +17,7 @@ The purpose of this application is to create a simple logo or badge.
 ## Installation 
 I used  Javascript, node.js, SVG to create this application.
 
- instal npm, inquirer@8.2.4 and something you can view SVG files. A stadard browser should work.
+ install npm, inquirer@8.2.4 package and jest package and something you can view SVG files. A standard browser should work. I used Chrome.
 
 
 
